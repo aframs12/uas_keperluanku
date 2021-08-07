@@ -1,0 +1,2 @@
+rootProject.name = "uas_keperluanku"
+include ':app'
